@@ -1,0 +1,166 @@
+loinc_code,observation_name,obs_category,result_unit,total_observations,patient_count,mean_value,median_value,stddev_value,min_value,max_value,p2_5,p97_5,abnormal_count,abnormal_rate_pct
+72514-3,Pain severity - 0-10 verbal numeric rating [Score] - Reported,vital-signs,{score},3636,120,3.31,3.0,1.845,0.0,10.0,0.0,8.0,60,1.7
+74006-8,Weight difference [Mass difference] --pre dialysis - post dialysis,vital-signs,kg,1799,7,2.988,2.98,1.151,1.002,5.0,1.115,4.911,90,5.0
+29463-7,Body Weight,vital-signs,kg,1714,120,68.555,75.2,28.784,3.2,150.8,6.683,110.7,63,3.7
+9279-1,Respiratory rate,vital-signs,/min,1648,120,14.452,14.0,3.004,12.0,39.992,12.0,20.165,42,2.5
+8867-4,Heart rate,vital-signs,/min,1648,120,81.294,80.0,15.155,51.87,196.04,61.0,99.825,62,3.8
+8302-2,Body Height,vital-signs,cm,1592,120,153.994,164.3,34.063,49.6,195.1,61.743,191.4,49,3.1
+39156-5,Body mass index (BMI) [Ratio],vital-signs,kg/m2,1448,119,26.597,27.86,4.803,13.36,44.38,14.95,30.63,71,4.9
+38483-4,Creatinine [Mass/volume] in Blood,laboratory,mg/dL,1321,61,2.68,1.57,4.739,0.39,88.9,0.49,8.0,61,4.6
+2069-3,Chloride [Moles/volume] in Blood,laboratory,mmol/L,1321,61,106.043,106.04,2.898,101.0,110.99,101.19,110.72,65,4.9
+6298-4,Potassium [Moles/volume] in Blood,laboratory,mmol/L,1321,61,4.465,4.47,0.424,3.7,5.2,3.75,5.16,65,4.9
+2947-0,Sodium [Moles/volume] in Blood,laboratory,mmol/L,1321,61,139.992,139.94,2.354,136.01,144.0,136.19,143.86,64,4.8
+49765-1,Calcium [Mass/volume] in Blood,laboratory,mg/dL,1321,61,9.349,9.36,0.492,8.5,10.2,8.54,10.15,61,4.6
+20565-8,"Carbon dioxide, total [Moles/volume] in Blood",laboratory,mmol/L,1321,61,24.435,24.35,2.609,20.01,29.0,20.22,28.81,62,4.7
+2339-0,Glucose [Mass/volume] in Blood,laboratory,mg/dL,1321,61,85.374,84.61,15.192,64.02,190.14,64.91,120.6,65,4.9
+6299-2,Urea nitrogen [Mass/volume] in Blood,laboratory,mg/dL,1275,61,13.565,13.76,3.824,7.0,19.98,7.29,19.77,60,4.7
+4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,laboratory,%,1067,57,4.584,3.97,1.448,2.43,8.2,2.43,7.0,24,2.2
+55758-7,Patient Health Questionnaire 2 item (PHQ-2) total score [Reported],survey,{score},916,89,1.246,1.0,1.105,0.0,6.0,0.0,5.0,13,1.4
+5803-2,pH of Urine by Test strip,laboratory,pH,865,22,5.972,5.95,0.589,5.007,6.995,5.043,6.95,34,3.9
+5792-7,Glucose [Mass/volume] in Urine by Test strip,laboratory,mg/dL,865,22,1.535,1.448,0.846,0.022,13.16,0.555,2.474,44,5.1
+5804-0,Protein [Mass/volume] in Urine by Test strip,laboratory,mg/dL,865,22,273.556,289.98,104.53,1.792,448.42,56.661,433.538,44,5.1
+5811-5,Specific gravity of Urine by Test strip,laboratory,{nominal},865,22,1.02,1.02,0.011,1.001,1.039,1.002,1.038,45,5.2
+5797-6,Ketones [Mass/volume] in Urine by Test strip,laboratory,mg/dL,854,15,10.054,9.873,5.716,0.027,19.985,0.577,19.547,44,5.2
+20505-4,Bilirubin.total [Mass/volume] in Urine by Test strip,laboratory,mg/dL,854,15,0.853,0.861,0.379,0.2,1.499,0.222,1.465,44,5.2
+33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,laboratory,mL/min/{1.73_m2},797,19,68.399,65.244,40.588,1.28,158.71,9.059,149.046,29,3.6
+2345-7,Glucose [Mass/volume] in Serum or Plasma,laboratory,mg/dL,701,21,85.054,83.82,14.08,64.02,124.77,64.76,118.915,36,5.1
+2028-9,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",laboratory,mmol/L,701,21,24.299,24.22,2.461,20.01,28.99,20.345,28.65,36,5.1
+2951-2,Sodium [Moles/volume] in Serum or Plasma,laboratory,mmol/L,701,21,139.811,139.56,2.397,136.01,143.98,136.11,143.79,32,4.6
+2823-3,Potassium [Moles/volume] in Serum or Plasma,laboratory,mmol/L,701,21,4.429,4.43,0.431,3.7,5.2,3.74,5.165,33,4.7
+3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,laboratory,mg/dL,701,21,13.458,13.61,3.745,7.06,19.97,7.37,19.665,35,5.0
+17861-6,Calcium [Mass/volume] in Serum or Plasma,laboratory,mg/dL,701,21,9.367,9.41,0.495,8.5,10.19,8.54,10.15,34,4.9
+2160-0,Creatinine [Mass/volume] in Serum or Plasma,laboratory,mg/dL,701,21,1.931,1.965,0.455,0.6,2.995,0.76,2.886,30,4.3
+2075-0,Chloride [Moles/volume] in Serum or Plasma,laboratory,mmol/L,701,21,105.818,105.75,2.865,101.02,110.97,101.175,110.615,36,5.1
+2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,laboratory,mg/dL,634,73,48.369,51.705,13.321,21.25,79.258,25.343,72.74,32,5.0
+2571-8,Triglyceride [Mass/volume] in Serum or Plasma,laboratory,mg/dL,634,73,144.131,132.665,48.558,100.03,488.05,101.917,278.779,32,5.0
+2093-3,Cholesterol [Mass/volume] in Serum or Plasma,laboratory,mg/dL,634,73,201.235,193.83,50.479,84.1,340.83,121.186,300.19,32,5.0
+18262-6,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,laboratory,mg/dL,634,73,127.923,121.54,53.716,4.95,295.4,37.633,241.962,32,5.0
+70274-6,Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ],survey,{score},612,93,3.663,3.0,3.819,0.0,20.0,0.0,14.725,16,2.6
+33914-3,Glomerular filtration rate [Volume Rate/Area] in Serum or Plasma by Creatinine-based formula (MDRD)/1.73 sq M,laboratory,mL/min,562,27,40.305,21.848,39.441,4.021,159.36,5.293,151.38,39,6.9
+1751-7,Albumin [Mass/volume] in Serum or Plasma,laboratory,g/dL,552,27,4.509,4.541,0.557,3.503,5.499,3.558,5.453,28,5.1
+6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,laboratory,U/L,552,27,79.32,79.467,31.69,20.086,139.7,22.363,133.822,28,5.1
+1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,laboratory,mg/dL,552,27,1.87,0.749,3.322,0.101,14.976,0.151,13.404,28,5.1
+1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,laboratory,U/L,552,27,22.241,23.008,10.104,0.118,39.977,2.981,38.584,28,5.1
+1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,laboratory,U/L,552,27,35.326,35.832,14.497,0.069,59.774,3.643,58.756,28,5.1
+2885-2,Protein [Mass/volume] in Serum or Plasma,laboratory,g/dL,552,27,7.067,7.094,0.636,5.568,8.462,6.035,8.172,28,5.1
+789-8,"Erythrocytes [#/volume] in Blood by Automated count",laboratory,10*6/uL,470,120,4.724,4.704,0.505,3.783,5.795,3.907,5.637,24,5.1
+718-7,Hemoglobin [Mass/volume] in Blood,laboratory,g/dL,470,120,14.195,14.071,1.882,7.521,17.537,11.199,17.317,24,5.1
+6690-2,"Leukocytes [#/volume] in Blood by Automated count",laboratory,10*3/uL,470,120,6.319,6.339,2.411,0.502,10.686,1.901,10.344,24,5.1
+777-3,"Platelets [#/volume] in Blood by Automated count",laboratory,10*3/uL,470,120,294.249,300.145,98.455,101.27,449.95,111.101,445.683,24,5.1
+787-2,MCV [Entitic mean volume] in Red Blood Cells by Automated count,laboratory,fL,470,120,87.79,87.779,4.727,79.091,96.978,80.112,96.161,24,5.1
+786-4,MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count,laboratory,g/dL,470,120,34.217,34.307,1.092,31.505,35.981,31.846,35.874,24,5.1
+785-6,MCH [Entitic mass] by Automated count,laboratory,pg,470,120,29.869,29.88,1.818,26.67,32.998,27.014,32.831,24,5.1
+4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,laboratory,%,455,120,41.99,41.963,5.013,25.112,50.973,32.336,49.852,24,5.3
+10834-0,Globulin [Mass/volume] in Serum by calculation,laboratory,g/L,412,22,2.754,2.731,0.456,2.002,3.5,2.038,3.469,22,5.3
+75626-2,Total score [AUDIT-C],survey,{score},364,79,1.558,1.0,1.606,0.0,12.0,0.0,5.0,9,2.5
+82667-7,Total score [DAST-10],survey,{score},356,77,1.104,1.0,1.036,0.0,9.0,0.0,2.0,6,1.7
+76504-0,Total score [HARK],survey,{score},346,78,0.159,0.0,0.651,0.0,4.0,0.0,3.0,2,0.6
+59460-6,Fall risk total [Morse Fall Scale],survey,"{#}",333,30,46.018,36.0,34.277,0.0,124.0,2.0,116.7,16,4.8
+32623-1,Platelet [Entitic mean volume] in Blood by Automated count,laboratory,fL,331,120,10.827,10.797,0.835,9.416,12.297,9.449,12.256,18,5.4
+788-0,Erythrocyte [DistWidth] in Blood by Automated count,laboratory,fL,331,120,42.54,42.457,2.051,39.02,45.993,39.19,45.871,12,3.6
+32207-3,Platelet distribution width [Entitic volume] in Blood by Automated count,laboratory,fL,331,120,343.695,348.69,107.353,151.58,517.73,163.253,509.815,18,5.4
+59576-9,Body mass index (BMI) [Percentile] Per age and sex,vital-signs,%,329,43,60.186,61.579,28.198,2.374,100.0,8.048,99.075,18,5.5
+14959-1,Microalbumin/Creatinine [Mass Ratio] in Urine,laboratory,mg/g,236,9,112.128,19.955,163.016,0.11,589.27,0.916,548.888,12,5.1
+9843-4,Head Occipital-frontal circumference,vital-signs,cm,214,21,45.378,46.6,4.339,33.4,51.29,35.213,50.81,12,5.6
+77606-2,Weight-for-length Per age and sex,vital-signs,%,214,21,55.488,57.121,28.03,0.811,100.0,6.073,99.989,12,5.6
+8289-1,Head Occipital-frontal circumference Percentile,vital-signs,%,214,21,52.828,59.0,22.631,3.75,87.86,13.7,87.86,4,1.9
+2708-6,Oxygen saturation in Arterial blood,vital-signs,%,163,25,84.137,82.55,6.094,75.04,99.694,75.943,97.0,9,5.5
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry,vital-signs,%,163,25,84.137,82.55,6.094,75.04,99.694,75.943,97.0,9,5.5
+8331-1,Oral temperature,vital-signs,Cel,146,71,38.342,37.844,1.393,36.149,42.157,36.964,41.996,8,5.5
+8310-5,Body temperature,vital-signs,Cel,146,71,38.342,37.844,1.393,36.149,42.157,36.964,41.996,8,5.5
+41633001,Intraocular pressure (observable entity),vital-signs,mm[Hg],144,7,16.069,16.0,1.255,14.0,18.0,14.0,18.0,0,0.0
+788-0,Erythrocyte [DistWidth] in Blood by Automated count,laboratory,%,139,11,13.895,13.989,0.86,12.32,15.392,12.419,15.288,12,8.6
+19123-9,Magnesium [Mass/volume] in Serum or Plasma,laboratory,mg/dL,99,8,1.969,2.007,0.213,1.613,2.298,1.63,2.285,6,6.1
+89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,laboratory,pg/mL,94,11,0.734,0.026,1.392,0.0,4.912,0.001,3.913,3,3.2
+38208-5,Pain severity - Reported,survey,{score},92,10,5.601,6.099,2.677,1.253,9.996,1.451,9.721,6,6.5
+2276-4,Ferritin [Mass/volume] in Serum or Plasma,laboratory,ug/L,91,8,175.466,105.47,175.589,31.372,646.49,33.424,585.395,6,6.6
+89204-2,Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen],survey,{score},90,24,2.3,2.0,2.205,0.0,15.0,0.0,7.1,3,3.3
+79893-4,Left eye Intraocular pressure,vital-signs,mm[Hg],72,7,16.069,16.0,1.26,14.0,18.0,14.0,18.0,0,0.0
+79892-6,Right eye Intraocular pressure,vital-signs,mm[Hg],72,7,16.069,16.0,1.26,14.0,18.0,14.0,18.0,0,0.0
+98499-7,Visual acuity uncorrected Right eye,exam,{logmar},72,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+98498-9,Visual acuity uncorrected Left eye,exam,{logmar},72,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+33762-6,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma,laboratory,pg/mL,70,5,1095.527,1028.45,510.427,200.95,1999.7,308.431,1940.317,4,5.7
+2502-3,Iron saturation [Mass Fraction] in Serum or Plasma,laboratory,%,70,5,33.267,31.138,10.384,15.73,54.986,16.402,53.673,4,5.7
+2498-4,Iron [Mass/volume] in Serum or Plasma,laboratory,ug/dL,70,5,105.388,110.81,38.138,35.973,161.65,36.076,159.355,4,5.7
+2500-7,Iron binding capacity [Mass/volume] in Serum or Plasma,laboratory,ug/dL,70,5,352.816,349.415,54.547,253.95,449.96,258.92,439.616,4,5.7
+44261-6,Patient Health Questionnaire 9 item (PHQ-9) total score [Reported],survey,{score},60,35,13.85,14.0,8.248,3.0,27.0,3.0,27.0,0,0.0
+84215-3,Mental health Telehealth Note,therapy,{nominal},53,1,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,0.0
+75443-2,Mental health Outpatient Note,therapy,{nominal},53,1,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,0.0
+6301-6,INR in Platelet poor plasma by Coagulation assay,laboratory,{INR},50,8,1.531,1.136,0.734,0.826,2.971,0.839,2.966,4,8.0
+5902-2,Prothrombin time (PT),laboratory,s,47,7,10.977,11.169,0.944,9.169,12.998,9.347,12.308,4,8.5
+6299-2,Urea Nitrogen [Mass/volume] in Blood,laboratory,mg/dL,46,7,13.653,14.11,3.3,7.26,19.88,7.295,19.02,3,6.5
+704-7,"Basophils [#/volume] in Blood by Automated count",laboratory,10*3/uL,40,3,0.315,0.325,0.057,0.204,0.397,0.209,0.391,2,5.0
+2703-7,Oxygen [Partial pressure] in Arterial blood,laboratory,mm[Hg],40,5,78.756,85.959,20.442,41.036,99.145,41.095,98.964,2,5.0
+1960-4,Bicarbonate [Moles/volume] in Arterial blood,laboratory,mmol/L,40,5,24.355,24.258,1.587,22.115,26.984,22.238,26.971,2,5.0
+2744-1,pH of Arterial blood,laboratory,[pH],40,5,7.013,6.999,0.145,6.8,7.287,6.802,7.284,2,5.0
+731-0,"Lymphocytes [#/volume] in Blood by Automated count",laboratory,10*3/uL,40,3,1.03,1.038,0.085,0.82,1.198,0.835,1.164,2,5.0
+2019-8,Carbon dioxide [Partial pressure] in Arterial blood,laboratory,mm[Hg],40,5,40.496,40.881,2.99,35.068,44.984,35.222,44.927,2,5.0
+706-2,Basophils/Leukocytes in Blood by Automated count,laboratory,%,40,3,2.944,2.976,0.588,2.029,3.827,2.032,3.823,2,5.0
+751-8,"Neutrophils [#/volume] in Blood by Automated count",laboratory,10*3/uL,40,3,2.551,2.502,0.847,1.406,3.881,1.408,3.833,2,5.0
+770-8,Neutrophils/Leukocytes in Blood by Automated count,laboratory,%,40,3,27.497,25.459,11.02,10.257,43.517,10.268,42.621,2,5.0
+742-7,"Monocytes [#/volume] in Blood by Automated count",laboratory,10*3/uL,40,3,0.968,0.936,0.239,0.502,1.342,0.531,1.338,2,5.0
+711-2,"Eosinophils [#/volume] in Blood by Automated count",laboratory,10*3/uL,40,3,0.418,0.436,0.123,0.202,0.595,0.207,0.592,2,5.0
+5905-5,Monocytes/Leukocytes in Blood by Automated count,laboratory,%,40,3,10.119,10.126,2.91,5.03,14.655,5.052,14.384,2,5.0
+713-8,Eosinophils/Leukocytes in Blood by Automated count,laboratory,%,40,3,4.411,4.275,0.829,3.089,5.817,3.38,5.726,2,5.0
+736-9,Lymphocytes/Leukocytes in Blood by Automated count,laboratory,%,40,3,15.126,15.275,6.052,5.149,24.917,5.889,24.116,2,5.0
+10230-1,Left ventricular Ejection fraction,laboratory,%,34,8,55.331,39.34,22.999,32.631,98.55,35.683,97.312,2,5.9
+3173-2,aPTT in Blood by Coagulation assay,laboratory,s,29,5,31.571,31.477,4.128,25.426,38.499,25.6,37.806,2,6.9
+2857-1,Prostate specific Ag [Mass/volume] in Serum or Plasma,laboratory,ng/mL,27,5,2.852,2.591,1.723,0.632,7.025,0.632,6.953,2,7.4
+2777-1,Phosphate [Mass/volume] in Serum or Plasma,laboratory,mg/dL,26,4,3.577,3.52,0.58,2.578,4.45,2.669,4.421,2,7.7
+2514-8,Ketones [Presence] in Urine by Test strip,laboratory,{presence},23,7,0.13,0.0,0.344,0.0,1.0,0.0,1.0,0,0.0
+5799-2,Leukocyte esterase [Presence] in Urine by Test strip,laboratory,{presence},23,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+25428-4,Glucose [Presence] in Urine by Test strip,laboratory,{presence},23,7,0.13,0.0,0.344,0.0,1.0,0.0,1.0,0,0.0
+20454-5,Protein [Presence] in Urine by Test strip,laboratory,{presence},23,7,0.13,0.0,0.344,0.0,1.0,0.0,1.0,0,0.0
+5811-5,Specific gravity of Urine by Test strip,laboratory,{SG},23,7,1.014,1.015,0.007,1.005,1.024,1.005,1.024,0,0.0
+5770-3,Bilirubin.total [Presence] in Urine by Test strip,laboratory,{presence},23,7,0.13,0.0,0.344,0.0,1.0,0.0,1.0,0,0.0
+5794-3,Hemoglobin [Presence] in Urine by Test strip,laboratory,{presence},23,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+5802-4,Nitrite [Presence] in Urine by Test strip,laboratory,{presence},23,7,0.13,0.0,0.344,0.0,1.0,0.0,1.0,0,0.0
+5803-2,pH of Urine by Test strip,laboratory,[pH],23,7,6.491,6.794,1.114,4.509,7.986,4.638,7.931,12,52.2
+14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,laboratory,U/L,21,3,242.6,232.97,39.574,200.41,345.98,201.005,329.965,2,9.5
+2532-0,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma,laboratory,U/L,21,3,242.6,232.97,39.574,200.41,345.98,201.005,329.965,2,9.5
+48065-7,Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma,laboratory,ug/mL,21,3,0.469,0.484,0.142,0.226,0.691,0.256,0.689,2,9.5
+2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,laboratory,U/L,21,3,33.039,34.691,11.449,13.887,51.49,15.38,50.884,2,9.5
+33959-8,Procalcitonin [Mass/volume] in Serum or Plasma,laboratory,ng/mL,21,3,0.108,0.104,0.061,0.0,0.183,0.014,0.182,2,9.5
+1988-5,C reactive protein [Mass/volume] in Serum or Plasma,laboratory,mg/L,21,3,10.166,10.367,1.339,8.132,11.937,8.212,11.932,2,9.5
+72106-8,Total score [MMSE],survey,{score},18,5,12.402,12.705,7.116,0.475,22.723,0.954,22.629,2,11.1
+20570-8,Hematocrit [Volume Fraction] of Blood by calculation,laboratory,%,15,15,34.01,34.428,1.875,28.531,35.915,29.678,35.896,2,13.3
+19994-3,Oxygen/Total gas setting [Volume Fraction] Ventilator,laboratory,%,11,1,56.502,52.253,22.169,30.04,89.218,30.858,88.096,2,18.2
+5787-7,"Epithelial cells [#/area] in Urine sediment by Microscopy high power field",laboratory,/[HPF],11,8,2.712,3.318,1.366,0.137,3.982,0.256,3.952,2,18.2
+13945-1,"Erythrocytes [#/area] in Urine sediment by Microscopy high power field",laboratory,/[HPF],11,8,2.035,2.166,0.574,1.142,2.783,1.185,2.778,2,18.2
+5821-4,"Leukocytes [#/area] in Urine sediment by Microscopy high power field",laboratory,/[HPF],11,8,28.42,31.396,9.978,14.498,47.399,15.604,44.634,2,18.2
+19926-5,FEV1/FVC,procedure,%,11,2,62.819,62.188,7.68,54.238,74.9,54.398,74.779,2,18.2
+38265-5,DXA Radius and Ulna [T-score] Bone density,procedure,{T-score},10,9,-1.208,-0.292,1.625,-3.562,0.35,-3.463,0.343,2,20.0
+46240-8,History of Hospitalizations+Outpatient visits Narrative,survey,{count},6,1,4.765,3.67,2.992,2.176,9.835,2.213,9.452,2,33.3
+6075-6,Cladosporium herbarum IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.252,0.26,0.045,0.197,0.303,0.198,0.302,2,33.3
+89579-7,Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method,laboratory,ng/L,6,3,59.019,53.994,46.552,6.485,118.79,7.74,116.983,3,50.0
+6273-7,Walnut IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.195,0.2,0.072,0.102,0.284,0.105,0.281,2,33.3
+6158-0,Latex IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.104,0.061,0.103,0.032,0.293,0.032,0.275,2,33.3
+7258-7,Cow milk IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.21,0.252,0.123,0.012,0.324,0.024,0.322,2,33.3
+6082-2,Codfish IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.183,0.203,0.082,0.036,0.268,0.051,0.264,2,33.3
+6189-5,White oak IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.231,0.216,0.065,0.162,0.316,0.164,0.314,2,33.3
+6106-9,Egg white IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.21,0.228,0.127,0.03,0.343,0.039,0.341,2,33.3
+6085-5,Common Ragweed IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.09,0.067,0.069,0.04,0.226,0.041,0.209,2,33.3
+6844-5,Honey bee IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.177,0.154,0.107,0.027,0.342,0.042,0.33,2,33.3
+6276-0,Wheat IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.217,0.272,0.128,0.04,0.33,0.044,0.329,2,33.3
+6833-8,Cat dander IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.127,0.103,0.072,0.063,0.257,0.066,0.244,2,33.3
+6246-3,Shrimp IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.172,0.165,0.133,0.012,0.331,0.016,0.329,2,33.3
+6206-7,Peanut IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.159,0.135,0.087,0.063,0.297,0.068,0.287,2,33.3
+6095-4,American house dust mite IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.151,0.144,0.103,0.01,0.324,0.022,0.306,2,33.3
+6248-9,Soybean IgE Ab [Units/volume] in Serum,laboratory,kU/L,6,5,0.174,0.125,0.104,0.075,0.344,0.08,0.334,2,33.3
+33756-8,Polyp size greatest dimension,procedure,mm,5,5,3.955,3.33,2.07,2.001,6.41,2.017,6.356,2,40.0
+57905-2,Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen,laboratory,ng/mL,5,5,10.187,10.509,6.895,1.081,18.99,1.605,18.494,2,40.0
+32693-4,Lactate [Moles/volume] in Blood,laboratory,mmol/L,5,2,1.503,1.196,0.652,0.905,2.32,0.916,2.296,2,40.0
+2027-1,"Carbon dioxide, total [Moles/volume] in Venous blood",laboratory,mmol/L,3,3,1.077,0.856,0.481,0.746,1.629,0.752,1.59,2,66.7
+3184-9,Activated clotting time (ACT) of Blood by Coagulation assay,laboratory,s,3,3,113.407,113.49,1.277,112.09,114.64,112.16,114.583,2,66.7
+3016-3,Thyrotropin [Units/volume] in Serum or Plasma,laboratory,m[IU]/L,3,3,3.708,4.342,1.332,2.177,4.604,2.285,4.591,2,66.7
+14627-4,Bicarbonate [Moles/volume] in Venous blood,laboratory,mmol/L,3,3,24.786,25.264,1.693,22.906,26.189,23.024,26.143,2,66.7
+2746-6,pH of Venous blood,laboratory,[pH],3,3,7.4,7.432,0.071,7.319,7.449,7.325,7.448,2,66.7
+2705-2,Oxygen [Partial pressure] in Venous blood,laboratory,mm[Hg],3,3,40.86,40.955,3.597,37.216,44.408,37.403,44.235,2,66.7
+21377-7,Magnesium [Mass/volume] in Blood,laboratory,mg/dL,3,3,1.883,1.874,0.159,1.729,2.047,1.736,2.038,2,66.7
+2021-4,Carbon dioxide [Partial pressure] in Venous blood,laboratory,mm[Hg],3,3,46.882,46.947,1.832,45.019,48.681,45.115,48.594,2,66.7
+71425-3,Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay,vital-signs,pg/mL,3,3,1.555,1.505,0.159,1.427,1.733,1.431,1.721,2,66.7
+8478-0,Mean blood pressure,vital-signs,mm[Hg],2,2,63.819,63.819,47.729,30.069,97.568,31.756,95.881,2,100.0
+66524-0,Percentage area affected by eczema Upper extremity - bilateral [PhenX],exam,%,1,1,0.31,0.31,,0.31,0.31,0.31,0.31,0,0.0
+66519-0,Percentage area affected by eczema Head and Neck [PhenX],exam,%,1,1,43.275,43.275,,43.275,43.275,43.275,43.275,0,0.0
+66529-9,Percentage area affected by eczema Trunk [PhenX],exam,%,1,1,19.79,19.79,,19.79,19.79,19.79,19.79,0,0.0
+66534-9,Percentage area affected by eczema Lower extremity - bilateral [PhenX],exam,%,1,1,11.449,11.449,,11.449,11.449,11.449,11.449,0,0.0
