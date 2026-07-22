@@ -1,4 +1,4 @@
-# EHR Interoperability & Patient Flow Analytics Engine
+# EHR Data Integration & Patient Flow Analytics Engine
 
 End-to-end pipeline for clinical EHR data: FHIR R4 bulk ingestion via PySpark,
 a Snowflake star schema, dbt analytics models, and a Power BI operational dashboard.
