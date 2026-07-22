@@ -1,0 +1,13 @@
+name: 'ehr_analytics'
+version: '1.0.0'
+config-version: 2
+profile: 'ehr_duckdb'
+model-paths: ["models"]
+models:
+  ehr_analytics:
+    staging:
+      materialized: view
+    marts:
+      materialized: table
+    analytics:
+      materialized: table
